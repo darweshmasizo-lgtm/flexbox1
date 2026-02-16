@@ -28,5 +28,17 @@ input[type="submit"]{
 }
 
 li{
+   list-style: none;
+   font-size: 1.3rem;
+    
+}
+
+input,
+textarea,
+fieldset,
+select{
+    border: none;
+    background: none;
+    outline: none;
     
 }
