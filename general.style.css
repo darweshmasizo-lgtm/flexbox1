@@ -40,5 +40,15 @@ select{
     border: none;
     background: none;
     outline: none;
-    
+
+    border-radius: 0.5rem;
+    font-size: 1.5rem;
 }
+
+input,
+textarea,
+select{
+    border: 1px hsla(0, 0%, 40%, 0.4) solid;
+    padding: 1rem 2rem;
+}
+
