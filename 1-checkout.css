@@ -19,3 +19,10 @@
     flex-direction: column;
     row-gap: 2rem;
 }
+
+.checkout__billing--form fieldset{
+    display: flex;
+    gap: 1rem;
+}
+
+
