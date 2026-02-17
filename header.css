@@ -12,3 +12,12 @@
 .hearder__img ing{
   object-position: center 15%;
 }
+
+.header__content{
+    align-self: center;
+
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+}
