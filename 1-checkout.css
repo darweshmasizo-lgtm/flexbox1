@@ -166,6 +166,10 @@
     gap: 1.5rem;
 }
 
+.checkout__order--btn{
+    display: flex;
+}
+
 
 
 
