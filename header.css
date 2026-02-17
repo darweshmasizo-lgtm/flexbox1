@@ -1,3 +1,14 @@
 #img-1{
     border-radius: 20px;
 }
+
+.hearder{
+    display: flex;
+    gap: 2rem;
+
+    padding: 4rem;
+    height: 4rem;
+
+    position: relative;
+}
+
