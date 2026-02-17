@@ -134,6 +134,13 @@
 }
 
 
+.checkout__order--details__cost > div,
+.checkout__order--details__total{
+    display: flex;
+    justify-content: space-between;
+}
+
+
 
 
 
