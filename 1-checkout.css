@@ -140,6 +140,16 @@
     justify-content: space-between;
 }
 
+.checkout__order--payment{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+    border: 1px solid rgba(224 224 224 / 0.4);
+   border-radius: 1rem;
+
+}
+
 
 
 
