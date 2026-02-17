@@ -1,6 +1,3 @@
-#img-1{
-    border-radius: 20px;
-}
 
 .hearder{
     display: flex;
@@ -12,3 +9,6 @@
     position: relative;
 }
 
+.hearder__img ing{
+  object-position: center 15%;
+}
