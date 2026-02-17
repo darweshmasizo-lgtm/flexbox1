@@ -83,6 +83,14 @@
     justify-content: space-between;
 }
 
+.checkout__order--details__name,
+.checkout__order--payment__title{
+    background-color: rgb(224 224 224 / 0.4,);
+    padding: 1.5rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
 
 
 
