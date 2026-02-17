@@ -26,3 +26,9 @@
 }
 
 
+.checkout__billing--form fieldset input{
+    flex-grow: 1;
+}
+
+
+
