@@ -36,6 +36,12 @@
     justify-content: flex-end;
 }
 
+.checkout__billing--form__account input,
+.checkout__billing--form__shipment input,
+.checkout__billing--form__coupon div input{
+    flex-grow: 0 !important;
+}
+
 
 
 
