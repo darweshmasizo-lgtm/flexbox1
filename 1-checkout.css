@@ -63,13 +63,21 @@
     row-gap: 3rem;
 }
 
-.checkout__order__details{
+.checkout__order--details{
     display: flex;
     flex-direction: column;
     row-gap: 2rem;
 
     border: 1px solid rgb(224 224 224 / 0.4);
+    border-radius: 1rem;
 }
+
+.checkout__order--details > div{
+    padding: 1.5rem;
+    border-bottom: 1px solid rgb(224 224 224 / 0.4);
+}
+
+
 
 
 
