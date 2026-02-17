@@ -151,6 +151,15 @@
 }
 
 
+.checkout__order--payment__form{
+    padding: 1.5rem;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+
 
 
 
