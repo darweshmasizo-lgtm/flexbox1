@@ -113,6 +113,11 @@
     gap: 8rem;
 }
 
+.checkout__order--details__product--img img{
+    border: 1px solid rgba(224 224 224 / 0.1);
+    border-radius: 50%;
+}
+
 
 
 
