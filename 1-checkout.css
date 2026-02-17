@@ -170,6 +170,13 @@
     display: flex;
 }
 
+.checkout__order--btn input{
+    flex-grow: 1;
+    background-color: rgb(49, 139, 212);
+    border: none;
+    color: #fff;
+}
+
 
 
 
