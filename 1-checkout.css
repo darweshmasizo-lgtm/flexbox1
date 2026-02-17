@@ -91,6 +91,12 @@
     border-top-right-radius: 1rem;
 }
 
+.checkout__order--details__product > div {
+   display: flex;
+   align-items: center;
+   gap: 2rem;
+}
+
 
 
 
