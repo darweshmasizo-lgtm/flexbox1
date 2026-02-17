@@ -42,6 +42,14 @@
     flex-grow: 0 !important;
 }
 
+.checkout__billing--form__coupon{
+    flex-direction: column;
+}
+
+.checkout__billing--form__coupon div{
+    display: flex;
+    gap: 1rem;
+}
 
 
 
