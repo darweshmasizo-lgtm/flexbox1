@@ -126,7 +126,12 @@
 
 
 
-.checkout__order--details__cost
+.checkout__order--details__cost{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    
+}
 
 
 
