@@ -21,3 +21,8 @@
     gap: 2rem;
 
 }
+
+.header__content-title{
+    color: #fb5974;
+    line-height: 0.85;
+}
