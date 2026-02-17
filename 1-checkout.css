@@ -30,5 +30,13 @@
     flex-grow: 1;
 }
 
+.checkout__billing--form__account,
+.checkout__billing--form__shipment{
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+
+
 
 
