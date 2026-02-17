@@ -5,3 +5,9 @@
 
     padding: 5rem;
 }
+
+
+.checkout__billing{
+    flex-basis: 50%;
+    
+}
