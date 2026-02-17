@@ -9,5 +9,9 @@
 
 .checkout__billing{
     flex-basis: 50%;
-    
+
 }
+
+.checkout__billing,
+.checkout__billing--form,
+.checkout__order
